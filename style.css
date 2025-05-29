@@ -65,7 +65,7 @@ body {
 .logo {
   width: 100px;
   height: 100px;
-  background-image: url("/images/logo.jpg");
+  background-image: url("https://ifestboston.com/wp-content/uploads/2018/08/a-Magician1.jpg");
   background-position: center;
   background-size: cover;
   /* background: linear-gradient(45deg, #007bff, #0056b3, #00d4ff); */
